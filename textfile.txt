@@ -1,0 +1,6 @@
+This is Anil kumar from warangal 
+I am the person who started to learn the GIT hub .
+inputs
+ 1,2,3
+ ouputs 
+    6
